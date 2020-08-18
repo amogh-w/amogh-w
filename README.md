@@ -22,19 +22,35 @@ Almost everything can be done from a terminal. The Arch wiki has all the solutio
 
 “Why waste time say lot word when few word do trick?” - Kevin Malone
 
-Skills:
-
+<details>
+  <summary>Skills</summary>
+  
 💎 Data Science: Python, Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn
+
 💎 Deep Learning Libraries: Keras, Tensorflow, PyTorch
+
 💎 DevOps: Docker, CircleCI
+
 💎 Cloud Services: Amazon Web Services, IBM Cloud
+
 💎 Frontend Development: HTML5, CSS3, JavaScript, TypeScript, React.js framework.
+
 💎 Backend Development: Node.js, Express.js.
+
 💎 Databases: MySQL, PostgreSQL, MongoDB
+
 💎 Protocols & APIs: JSON, REST, GraphQL
+
 💎 Source Control Management: git
+
 💎 Operating Systems: Windows, MacOS, Linux (Debian and Arch-based Distros)
+
 💎 Scripting Tools: Vim, Emacs
+
 💎 Scripting Languages: perl, ruby, bash
+
 💎 Typesetting Tools: LaTeX
+
 💎 Soft Skills: Excellent Written and Verbal Communication, Critical Thinking Skills, Strong Interpersonal Skills
+
+</details>
