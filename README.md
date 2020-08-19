@@ -14,43 +14,10 @@ All of my projects are open sourced and well documented in my GitHub repositorie
 
 <div align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amogh-w&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![amogh-w's github stats](https://github-readme-stats.vercel.app/api?username=amogh-w&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=cNplZrRSjeI)
 
 </div>
 
 Almost everything can be done from a terminal. The Arch wiki has all the solutions to my problems.
 
 “Why waste time say lot word when few word do trick?” - Kevin Malone
-
-<details>
-  <summary>Skills</summary>
-  
-💎 Data Science: Python, Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn
-
-💎 Deep Learning Libraries: Keras, Tensorflow, PyTorch
-
-💎 DevOps: Docker, CircleCI
-
-💎 Cloud Services: Amazon Web Services, IBM Cloud
-
-💎 Frontend Development: HTML5, CSS3, JavaScript, TypeScript, React.js framework.
-
-💎 Backend Development: Node.js, Express.js.
-
-💎 Databases: MySQL, PostgreSQL, MongoDB
-
-💎 Protocols & APIs: JSON, REST, GraphQL
-
-💎 Source Control Management: git
-
-💎 Operating Systems: Windows, MacOS, Linux (Debian and Arch-based Distros)
-
-💎 Scripting Tools: Vim, Emacs
-
-💎 Scripting Languages: perl, ruby, bash
-
-💎 Typesetting Tools: LaTeX
-
-💎 Soft Skills: Excellent Written and Verbal Communication, Critical Thinking Skills, Strong Interpersonal Skills
-
-</details>
