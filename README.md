@@ -4,7 +4,7 @@
 
 </div>
 
-I am a 20 year old engineering student and developer who wants to change the world for the better with the help of technology.
+I am a 21 year old engineering student and developer who wants to change the world for the better with the help of technology.
 
 I write stuff in JavaScript and Python.
 
@@ -14,10 +14,14 @@ All of my projects are open sourced and well documented in my GitHub repositorie
 
 <div align="center">
 
-[![amogh-w's github stats](https://github-readme-stats.vercel.app/api?username=amogh-w&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+[![amogh-w's github stats](https://github-readme-stats-het01tjwr-amogh-w.vercel.app/api?username=amogh-w&count_private=true&show_icons=true&theme=synthwave)](https://www.youtube.com/watch?v=cNplZrRSjeI)
 
 </div>
 
 Almost everything can be done from a terminal. The Arch wiki has all the solutions to my problems.
 
 “Why waste time say lot word when few word do trick?” - Kevin Malone
+
+[![Spotify](https://novatorem-k1w8bt5kr-amogh-w.vercel.app/api/spotify)](https://open.spotify.com/user/alphax2025)
+
+<!--START_SECTION:activity-->
