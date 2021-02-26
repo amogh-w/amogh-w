@@ -1,6 +1,6 @@
 <div align="center">
 
-![test](https://media1.tenor.com/images/650843414c5eb8e2b0d36daf1c825a41/tenor.gif?itemid=14550685)
+![First](media/first.gif)
 
 </div>
 
@@ -22,11 +22,23 @@ Almost everything can be done from a terminal. The Arch wiki has all the solutio
 
 “Why waste time say lot word when few word do trick?” - Kevin Malone
 
+## now listening
+
+<div align="center">
+
 [![Spotify](https://novatorem-k1w8bt5kr-amogh-w.vercel.app/api/spotify)](https://open.spotify.com/user/alphax2025)
 
+</div>
+
+<details>
+  <summary>recent activity</summary>
+
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
 2. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
 3. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
 4. 💪 Opened PR [#3](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes/pull/3) in [YuvrajSingh-16/Text-To-Handwritten-Notes](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes)
 <!--END_SECTION:activity-->
+
+</details>
