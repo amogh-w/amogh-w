@@ -35,10 +35,10 @@ Almost everything can be done from a terminal. The Arch wiki has all the solutio
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
+1. 🗣 Commented on [#29982](https://github.com/gatsbyjs/gatsby/issues/29982) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 2. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
 3. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
-4. 💪 Opened PR [#3](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes/pull/3) in [YuvrajSingh-16/Text-To-Handwritten-Notes](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes)
+4. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
 <!--END_SECTION:activity-->
 
 </details>
