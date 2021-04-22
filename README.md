@@ -35,9 +35,9 @@ Almost everything can be done from a terminal. The Arch wiki has all the solutio
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#29982](https://github.com/gatsbyjs/gatsby/issues/29982) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
-3. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
+1. 🎉 Merged PR [#1](https://github.com/amogh-w/amogh-w.github.io/pull/1) in [amogh-w/amogh-w.github.io](https://github.com/amogh-w/amogh-w.github.io)
+2. 💪 Opened PR [#1](https://github.com/amogh-w/amogh-w.github.io/pull/1) in [amogh-w/amogh-w.github.io](https://github.com/amogh-w/amogh-w.github.io)
+3. 🗣 Commented on [#29982](https://github.com/gatsbyjs/gatsby/issues/29982) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 4. 🗣 Commented on [#2](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE/issues/2) in [amogh-w/Hackintosh-MSI-GV62-7RE](https://github.com/amogh-w/Hackintosh-MSI-GV62-7RE)
 <!--END_SECTION:activity-->
 
